@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Watched Movies Album</string>
+    <string name="rating">%.1f/10</string>
+</resources>
